@@ -3,7 +3,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Melissa Souza, tenho 28 anos, resolvi migrar de profissão e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera, venho desenvolvendo alguns projetos para adquirir experiência e ter a oportunidade de estagiar com o objetivo de voluir profissionalmente.
+
 
 <p align="left">
     <a>
