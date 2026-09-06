@@ -1,50 +1,58 @@
 
-# 👩🏻‍💻 Melissa Souza
 
-**` Desenvolvedora Back-End em formação 🚀 `**
 
-Olá sou Melissa, 
-Atualmente estou cursando Desenvolvimento Backend e também possuo conhecimentos em Desenvolvimento Front-end. Utilizo este espaço para compartilhar meus projetos, exercícios, aprendizados e acompanhar minha evolução como Desenvolvedora.
+👩🏻‍💻 Melissa Souza
 
+Desenvolvedora Back-End em formação 🚀
+
+Olá! Eu sou a Melissa 👋🏻
+
+Sou formada em Logística e atualmente estou em transição de carreira para a área de Tecnologia. Estou cursando Desenvolvimento Back-End e também possuo conhecimentos em Desenvolvimento Front-End.
+
+Utilizo este espaço para compartilhar meus projetos, exercícios, aprendizados e acompanhar minha evolução como desenvolvedora.
+
+<br>
+
+🚀 Sobre mim
+🎓 Formada em Logística
+💻 Estudando Desenvolvimento Back-End
+🌐 Conhecimentos em Desenvolvimento Front-End
+📚 Sempre buscando aprender novas tecnologias
+🎯 Em busca de uma oportunidade como Desenvolvedora Back-End Júnior/Trainee
+💻 Tech Stack
+🎨 Front-End
+
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p>
+
+⚙️ Back-End
+
+<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p>
+
+🛠️ Ferramentas
+
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
+
+📂 Projetos
+🚧 Em construção...
+
+Estou desenvolvendo projetos para colocar em prática meus conhecimentos em JavaScript, Node.js, APIs e desenvolvimento Back-End.
+
+Em breve, novos projetos estarão disponíveis aqui. 🚀
+
+🔗 Conecte-se Comigo
 
 <p align="left">
-    <a>
-        <img 
-            alt="number" 
-            title="Meu numero" 
-            src="https://custom-icon-badges.demolab.com/badge/-019992631573-orange?style=for-the-badge&logo=phone&logoColor=white"
-        />
-    </a>
-    <a >
-        <img 
-            alt="email" 
-            title="Meu E-mail" 
-            src="https://custom-icon-badges.demolab.com/badge/-melissasouza373@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a> 
-    <a>
-        <img 
-            alt="Minha cidade" 
-            title="Localização" 
-            src="https://custom-icon-badges.demolab.com/badge/Monte Mor-SP-purple?style=for-the-badge&logo=location&logoColor=white"
-        />
-    </a>
+
+<a href="https://www.linkedin.com/in/melissa-souza-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+
+<a href="https://melissasouza373.github.io/Portfolio-Melissa/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /> </a>
+
+<a href="mailto:melissasouza373@gmail.com">"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+
+<a href="https://wa.me/19992631573" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a>
 
 </p>
 
+<br>
 
-    
----
-## 💻 Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+Sempre aprendendo, evoluindo e transformando código em soluções. 💻🚀
