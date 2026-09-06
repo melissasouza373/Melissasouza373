@@ -11,16 +11,6 @@ Sou formada em Logística e atualmente estou em transição de carreira para a �
 
 Utilizo este espaço para compartilhar meus projetos, exercícios, aprendizados e acompanhar minha evolução como desenvolvedora.
 
-<br>
-
-🚀 Sobre mim
-🎓 Formada em Logística
-💻 Estudando Desenvolvimento Back-End
-🌐 Conhecimentos em Desenvolvimento Front-End
-📚 Sempre buscando aprender novas tecnologias
-🎯 Em busca de uma oportunidade como Desenvolvedora Back-End Júnior/Trainee
-💻 Tech Stack
-🎨 Front-End
 
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p>
 
