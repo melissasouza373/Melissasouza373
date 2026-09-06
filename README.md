@@ -40,7 +40,7 @@ Em breve, novos projetos estarão disponíveis aqui. 🚀
 
 <a href="https://melissasouza373.github.io/Portfolio-Melissa/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /> </a>
 
-<a href="mailto:melissasouza373@gmail.com">"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+<a href="mailto:melissasouza373@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
 
 <a href="https://wa.me/19992631573" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a>
 
