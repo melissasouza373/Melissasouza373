@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Melissa Souza
 
-**` Desenvolvedora Back-End em formação `**
+**` Desenvolvedora Back-End em formação 🚀 `**
 
 Olá sou Melissa, 
 Atualmente estou cursando Desenvolvimento Backend e também possuo conhecimentos em Desenvolvimento Front-end. Utilizo este espaço para compartilhar meus projetos, exercícios, aprendizados e acompanhar minha evolução como Desenvolvedora.
